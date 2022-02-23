@@ -17,7 +17,10 @@ To get a local copy up and running follow these simple example steps.
 Clone the project by using terminal:
 
 ```
-https://github.com/nevisende/enumerable_rb
+https://github.com/Chimwemwe-127001/enumerable_rb
+
+ruby MyList.rb
+
 ```
 
 
